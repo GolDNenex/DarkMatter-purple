@@ -6,16 +6,16 @@
  * @source https://github.com/DiscordStyles/DarkMatter/
 */
 
-@import url('/src/base.css');
+@import url('https://raw.githubusercontent.com/GolDNenex/DarkMatter-purple/main/src/base.css');
 
 /* Variables */
 :root {
     --avatar-size: 32px;
-    --background-image: url('https://i.imgur.com/7SbtKvw.png');
-    --home-image: url('https://i.imgur.com/233d55Y.gif');
+    --background-image: url('https://raw.githubusercontent.com/GolDNenex/DarkMatter-purple/main/src/bg.png');
+    --home-image: url('https://raw.githubusercontent.com/GolDNenex/DarkMatter-purple/main/src/home.gif');
     --background-solid: #161921;
     --background-solid-dark: #101218;
     --background-solid-darker: #0c0e12;
-    --accent: 37, 172, 232;
-    --accent-alt: 29, 101, 134;
+    --accent: 146, 110, 228;
+    --accent-alt: 88, 57, 179;
 }
