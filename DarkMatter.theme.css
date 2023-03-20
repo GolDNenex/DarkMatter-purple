@@ -13,9 +13,19 @@
     --avatar-size: 32px;
     --background-image: url('https://raw.githubusercontent.com/GolDNenex/DarkMatter-purple/main/src/bg.png');
     --home-image: url('https://raw.githubusercontent.com/GolDNenex/DarkMatter-purple/main/src/home.gif');
-    --background-solid: #ffffff;
-    --background-solid-dark: #740000;
+    --background-solid: #ff00c8; /** User profile*/
+    --background-solid-dark: #191919;
     --background-solid-darker: #0c0e12;
     --accent: 146, 110, 228;
     --accent-alt: 88, 57, 179;
+    --background-primary: var(--background-solid);
+	--background-mobile-primary: var(--background-primary);
+	--background-secondary: var(--background-solid);
+	--background-mobile-secondary: var(--background-secondary);
+	--background-secondary-alt: var(--background-solid);
+	--background-tertiary: var(--background-solid);
+	--background-floating: var(--background-solid);
+	--background-secondary: var(--background-solid);
+	--background-accent: var(--background-solid);
+	--background-message-hover: rgba(var(--black), 0.4);
 }
