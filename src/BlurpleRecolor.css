@@ -1,5 +1,5 @@
-﻿@import url(https://raw.githubusercontent.com/GolDNenex/DarkMatter-purple/main/src/ThemeDevBadge.css);
-@import url(https://raw.githubusercontent.com/GolDNenex/DarkMatter-purple/main/src/ThemeDevBadge.css);
+﻿@import url('https://raw.githubusercontent.com/GolDNenex/DarkMatter-purple/main/src/ThemeDevBadge.css');
+@import url('https://raw.githubusercontent.com/GolDNenex/DarkMatter-purple/main/src/ThemeDevBadge.css');
 
 :root {
 	--accentcolor:					88,101,242;
