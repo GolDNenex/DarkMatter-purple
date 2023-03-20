@@ -13,7 +13,7 @@
     --avatar-size: 32px;
     --background-image: url('https://raw.githubusercontent.com/GolDNenex/DarkMatter-purple/main/src/bg.png');
     --home-image: url('https://raw.githubusercontent.com/GolDNenex/DarkMatter-purple/main/src/home.gif');
-    --background-solid: #ff00c8; /** User profile*/
+    --background-solid: #191919ab; /** User profile*/
     --background-solid-dark: #191919;
     --background-solid-darker: #0c0e12;
     --accent: 146, 110, 228;
